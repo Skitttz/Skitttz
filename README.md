@@ -1,4 +1,4 @@
-## Oi! Sou Carlos 
+## Oi! Eu Sou Carlos 
 ![Skittz GitHub stats](https://github-readme-stats.vercel.app/api?username=Skitttz&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
