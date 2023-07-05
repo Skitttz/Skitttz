@@ -1,7 +1,7 @@
 ## 👋 Hey there!
 - ✒️ I'm Carlos Vinicius(Skittz), a front-end developer.
 - 🎓 I graduated in computer science at the  [@Tiradentes University](https://www.unit.br/en/undergraduate)  
-- 🌱 I'm currently learning JavaScript,TypeScript and NodeJS.
+- 🌱 I'm currently learning JavaScript,TypeScript and ReactJS.
 
 #### How can you find me:
 
