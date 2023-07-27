@@ -9,7 +9,6 @@
 <a href="mailto:skittz.dev@gmail.com">  <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-![Skittz GitHub stats](https://github-readme-stats.vercel.app/api?username=Skitttz&show_icons=true&theme=dracula&count_private=true)
 
 ## The technologies I am using in my day-to-day work
 
