@@ -3,6 +3,9 @@
 - 🎓 I graduated in computer science at the  [@Tiradentes University](https://www.unit.br/en/undergraduate)  
 - 🌱 I'm currently learning JavaScript,TypeScript and ReactJS.
 
+
+#### Feel free to connect with me or explore some of my projects. I'm always open to collaboration and new opportunities!
+
 #### How can you find me:
 
 <a href="https://www.linkedin.com/in/carlos-vinicius-6a2874234/ " target="_blank" rel="noopener noreferrer">  <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -20,5 +23,5 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-#### Feel free to connect with me or explore some of my projects. I'm always open to collaboration and new opportunities!
+
 
