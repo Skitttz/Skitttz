@@ -19,8 +19,6 @@
 
 
 #### 💬 Feel free to connect with me or explore some of my projects. I'm always open to collaboration and new opportunities!
-
-##
 <br />
 <details open><b> <summary> <h3>[🇧🇷] Como você pode me encontrar │ [🇺🇸] How can you find me </h3></b></summary>
 <br />
