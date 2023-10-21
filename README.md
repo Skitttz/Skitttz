@@ -22,14 +22,14 @@
 
 ##
 <br />
-<details open><b> <summary>[🇧🇷] Como você pode me encontrar │ [🇺🇸] How can you find me </b></summary>
+<details open><b> <summary> <h3>[🇧🇷] Como você pode me encontrar │ [🇺🇸] How can you find me </h3></b></summary>
 <br />
 <a href="https://www.linkedin.com/in/carlos-vinicius-6a2874234/ " target="_blank" rel="noopener noreferrer">  <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:skittz.dev@gmail.com">  <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </details>
 <br />
 <details open>
-<summary><b> [🇧🇷] As tecnologias que estou usando no meu dia-a-dia │ [🇺🇸] The technologies I am using in my day-to-day </b></summary>
+<summary><b> <h3>[🇧🇷] As tecnologias que estou usando no meu dia-a-dia │ [🇺🇸] The technologies I am using in my day-to-day </h3></b></summary>
 
 <div style="display: inline_block">
   <br />
