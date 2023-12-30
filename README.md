@@ -27,7 +27,7 @@
   
 
 <div style="display: inline_block">
- <b><h4> [🇧🇷] As tecnologias que estou usando no meu dia-a-dia │ [🇺🇸] The technologies I am using in my day-to-day </h4></b>
+ <b><h4> [🇧🇷] As tecnologias que estou usando no meu dia-a-dia │ [🇺🇸] The technologies I am using in my day </h4></b>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
