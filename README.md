@@ -20,30 +20,53 @@
 
 #### 💬 Feel free to connect with me or explore some of my projects. I'm always open to collaboration and new opportunities!
 </br>
+
+
+
+## [🇧🇷] Tecnologias que utilizo no meu dia-a-dia │ [🇺🇸] Skills I am using in my day 
+
+<a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="24" height="24" />
+</a>
+<a href="https://css3.com" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="24" height="24" />
+</a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="24" height="24" />
+</a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="24" height="24" />
+</a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="24" height="24" />
+</a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="24" height="24" />
+</a>
+<a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="24" height="24" />
+</a>
+<a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="24" height="24" />
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="24" height="24" />
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="24" height="24" />
+</a>
+
+
+
+
+
+
+
+<br/>
+
+
 <b>  <h3>[🇧🇷] Como você pode me encontrar │ [🇺🇸] How can you find me </h3></b>
 <a href="https://www.linkedin.com/in/carlos-vinicius-6a2874234/ " target="_blank" rel="noopener noreferrer">  <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:skittz.dev@gmail.com">  <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-  
-
-<div style="display: flex;">
- <b><h4> [🇧🇷] As tecnologias que estou usando no meu dia-a-dia │ [🇺🇸] The technologies I am using in my day </h4></b>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <br>
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <br>
-  <br>
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="strapi" src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
-
-
-</div><br/>
-
 
 
