@@ -33,12 +33,12 @@
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener">
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="24" height="24" /></a>
 <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener">
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="24" height="24" /></a>
+<a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener">
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="24" height="24" /></a>
 <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener">
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="24" height="24" /></a>
 <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="24" height="24" /></a>
-<a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener">
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="24" height="24" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="24" height="24" /></a>
