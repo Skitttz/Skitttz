@@ -27,8 +27,8 @@
 <div align="center">
     <div style="display: flex; align-items: flex-start;">
       
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skitttz&repo=NextCoffe&show_owner=true)](https://github.com/skitttz/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skitttz&repo=Nights4films&show_owner=true)](https://github.com/skitttz/github-readme-stats)
+[![Card 1](https://github-readme-stats.vercel.app/api/pin/?username=skitttz&repo=NextCoffe&show_owner=true)](https://github.com/Skitttz/NextCoffe)
+[![Card 2](https://github-readme-stats.vercel.app/api/pin/?username=skitttz&repo=Nights4films&show_owner=true)](https://github.com/Skitttz/Nights4Films)
  </div>
 </div>
 
