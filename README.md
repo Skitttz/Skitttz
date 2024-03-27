@@ -21,6 +21,16 @@
 #### 💬 Feel free to connect with me or explore some of my projects. I'm always open to collaboration and new opportunities!
 </br>
 
+> [!Note]  
+> [🇧🇷] Últimos projetos pessoais publicados |  [🇺🇸] Latest published personal projects.
+
+<div align="center">
+    <div style="display: flex; align-items: flex-start;">
+      
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skitttz&repo=NextCoffe&show_owner=true)](https://github.com/skitttz/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skitttz&repo=Nights4films&show_owner=true)](https://github.com/skitttz/github-readme-stats)
+ </div>
+</div>
 
 
 ## [🇧🇷] Tecnologias que utilizo no meu dia-a-dia │ [🇺🇸] Skills I am using in my day 
