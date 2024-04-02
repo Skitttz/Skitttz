@@ -5,7 +5,7 @@
 ## [🇧🇷]👋 E ai, como vai?
 - 👨‍💻 Sou Carlos Vinicius (Skittz), um desenvolvedor front-end;
 - 🎓 Me formei em Ciência da Computação na [@Universidade Tiradentes](https://www.unit.br/ciencia-da-computacao);
-- 🌱 Atualmente estou aprendendo **JavaScript, TypeScript,ReactJS & NextJS**;
+- 🌱 Atualmente estou aprendendo **JavaScript, TypeScript, ReactJS & NextJS**;
 - 💼 Caso queira me conhecer melhor, acesse [meu portfólio](https://skitttz.github.io/portfolio-cv/).
 
 
@@ -14,7 +14,7 @@
 ## [🇺🇸]👋 Hey there! what's up?
 - 👨‍💻 I'm Carlos Vinicius (Skittz), a front-end developer;
 - 🎓 I graduated in computer science at the  [@Tiradentes University](https://www.unit.br/ciencia-da-computacao);
-- 🌱 I'm currently learning **JavaScript, TypeScript, ReactJS and NextJS**;
+- 🌱 I'm currently learning **JavaScript, TypeScript, ReactJS & NextJS**;
 - 💼 If you want to know me better, visit [my portfolio website](https://skitttz.github.io/portfolio-cv/).
 
 
