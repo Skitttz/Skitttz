@@ -22,7 +22,7 @@
 </br>
 
 > [!Note]  
-> [🇧🇷] Últimos projetos pessoais publicados |  [🇺🇸] Latest published personal projects.
+> [🇧🇷] Últimos projetos |  [🇺🇸] Latest published
 
 <div align="center">
     <div style="display: flex; align-items: flex-start;">
