@@ -9,7 +9,7 @@
 - 💼 Caso queira me conhecer melhor, acesse [meu portfólio](https://cv-dev.netlify.app/).
 
 
-#### 💬 Sinta-se à vontade para se conectar comigo ou explorar algum dos meus projetos. Estou sempre aberto a colaborações e novas oportunidades!
+#### 💬 Sinta-se à vontade para entrar em contato comigo ou explorar algum dos meus projetos. Estou sempre aberto a colaborações e novas oportunidades!
 
 ## [🇺🇸]👋 Hey there! what's up?
 - 👨‍💻 I'm Carlos Vinicius (Skittz), a front-end developer;
@@ -18,7 +18,7 @@
 - 💼 If you want to know me better, visit [my portfolio website](https://cv-dev.netlify.app/).
 
 
-#### 💬 Feel free to connect with me or explore some of my projects. I'm always open to collaboration and new opportunities!
+#### 💬 Feel free to contact with me or explore some of my projects. I'm always open to collaboration and new opportunities!
 </br>
 
 > [!Note]  
