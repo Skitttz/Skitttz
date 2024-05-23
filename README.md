@@ -33,7 +33,7 @@
 </div>
 
 
-## [🇧🇷] Tecnologias que utilizo no meu dia-a-dia │ [🇺🇸] Skills I am using in my day 
+## [🇧🇷] Tecnologias que utilizo no meu dia-a-dia │ [🇺🇸] Skills I use in my everyday routine
 
 <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener">
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="24" height="24" /></a>
