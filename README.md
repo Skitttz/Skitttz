@@ -34,9 +34,9 @@
  </div>
 </div>
 
+<div  display="flex" , align="center">
 
-## [🇧🇷] Tecnologias que utilizo no meu dia-a-dia │ [🇺🇸] Skills I use in my everyday routine
-
+## [🇧🇷] Tecnologias │ [🇺🇸] Skills 
 <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener">
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="24" height="24" /></a>
 <a href="https://css3.com" target="_blank" rel="noreferrer noopener">
@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="24" height="24" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener">
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="24" height="24" /></a>
-
+</div>
 
 
 
