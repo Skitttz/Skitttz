@@ -23,16 +23,6 @@
 #### 💬 Feel free to contact with me or explore some of my projects. I'm always open to collaboration and new opportunities!
 </br>
 
-> [!Note]  
-> [🇧🇷] Últimos projetos |  [🇺🇸] Latest projects
-
-<div align="center">
-    <div style="display: flex; align-items: flex-start;">
-      
-[![Card 1](https://github-readme-stats.vercel.app/api/pin/?username=skitttz&repo=NextCoffe&show_owner=true)](https://github.com/Skitttz/NextCoffe)
-[![Card 2](https://github-readme-stats.vercel.app/api/pin/?username=skitttz&repo=Nights4films&show_owner=true)](https://github.com/Skitttz/Nights4Films)
- </div>
-</div>
 
 <div  display="flex" , align="center">
 
