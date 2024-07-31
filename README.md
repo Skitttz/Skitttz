@@ -24,30 +24,20 @@
 
 <div  display="flex" , align="center">
 
-## [🇧🇷] Tecnologias │ [🇺🇸] Skills 
-<a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="32" height="32" /></a>
-<a href="https://css3.com" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="32" height="32" /></a>
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
-    <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="32" height="32" /></a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="32" height="32" /></a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="32" height="32" /></a>
-<a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="32" height="32" /></a>
-<a href="https://nextjs.org" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="32" height="32" /></a>
-<a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="32" height="32" /></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="32" height="32" /></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener">
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="32" height="32" /></a>
+## 🛠 [🇧🇷] Tecnologias │ [🇺🇸] Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,postgresql&perline=5)](https://skillicons.dev)
 </div>
-
-
+<div align="right">
+  <h2>📫 Contato │ Get in Touch</h2>
+  <div style="display: flex; align: right;>
+    <a href="https://www.linkedin.com/in/carlos-vinicius-dev" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:skittz.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
+</div>
 
 
 
