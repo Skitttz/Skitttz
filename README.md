@@ -27,6 +27,9 @@
 ## 🛠 [🇧🇷] Tecnologias │ [🇺🇸] Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,postgresql&perline=5)](https://skillicons.dev)
 </div>
+
+</br>
+
 <div align="right">
   <h2>📫 [🇧🇷] Entre em Contato │ [🇺🇸] Get in Touch</h2>
   <div style="display: flex; align: right;>
