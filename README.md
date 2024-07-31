@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,postgresql&perline=5)](https://skillicons.dev)
 </div>
 <div align="right">
-  <h2>📫 Contato │ Get in Touch</h2>
+  <h2>📫 [🇧🇷] Entre em Contato │ [🇺🇸] Get in Touch</h2>
   <div style="display: flex; align: right;>
     <a href="https://www.linkedin.com/in/carlos-vinicius-dev" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
