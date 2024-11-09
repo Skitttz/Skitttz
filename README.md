@@ -1,5 +1,4 @@
-<!-- Imagem alinhada à direita -->
-  <img align="right" width="25%" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" alt="GIF animado do lado direito">
+  <img align="right" width="26%" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" alt="GIF Animado">
 
 
 <div id="toc">
