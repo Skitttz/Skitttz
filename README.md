@@ -1,6 +1,4 @@
-  <img align="right" width="26%" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" alt="GIF Animado">
-
-
+<img align="right" width="26%" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" alt="GIF Animado">
 <div id="toc">
  <ul style="list-style: none">
     <summary>
@@ -13,8 +11,6 @@
 - 🎓 I graduated in computer science  
 - 🌱 I'm currently learning **JavaScript, TypeScript, ReactJS & NextJS**;  
 - 💼 If you want to know me better, visit [my portfolio](https://carlos-vinicius.tech).  
-
-<br/>
 <div id="toc">
  <ul style="list-style: none">
     <summary>
