@@ -1,4 +1,4 @@
-<img align="right" width="26%" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" alt="GIF Animado">
+<img align="right" width="45%" src="https://i.pinimg.com/originals/c6/84/61/c68461b123e0d9e959525e19166cdd15.gif" alt="GIF Animado">
 <div id="toc">
  <ul style="list-style: none">
     <summary>
