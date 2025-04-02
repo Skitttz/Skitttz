@@ -7,7 +7,6 @@
 
 - 🎓 Computer Science Graduate
 - 📚 Currently pursuing a Postgrad in Front, Back and Mobile
-- 💻 Frontend Developer focused on TypeScript,React and Next
 - 🚀 Constantly learning new technologies and improving my skills
 - 💼 Check out my work at [carlos-vinicius.tech](https://carlos-vinicius.tech)
 
