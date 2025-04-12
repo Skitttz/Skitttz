@@ -1,4 +1,5 @@
-<img align="right" width="40%" src="https://i.pinimg.com/originals/c6/84/61/c68461b123e0d9e959525e19166cdd15.gif" alt="Developer Animation">
+
+
 
 # 👋 Hey there! What's up?  
 
