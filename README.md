@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,postgresql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,docker,postgresql,figma&perline=6)](https://skillicons.dev)
 
 ###  🎯 Core Competencies
 - **Frontend**: JavaScript (ES6+), TypeScript, React.js and Next.js
