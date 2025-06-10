@@ -10,8 +10,7 @@
 ## 📌 About me
 > Frontend Developer with +2 years of experience designing scalable, performant applications, creating intuitive and high interfaces
 
-- 🎓 Computer Science Graduate
-- 📚 Currently pursuing a Postgrad in Front, Back and Mobile
+- 🎓 Computer Science graduate + MBA Fullstack Development
 - 🚀 Constantly learning new technologies and improving my skills
 - 💼 Check out my work at [carlos-vinicius.tech](https://carlos-vinicius.tech)
 
