@@ -1,9 +1,13 @@
 
+<div id="user-content-toc" align="center">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>👋 Hey there! What's up?  </h1>
+    </summary>
+  </ul>
+</div>
 
-
-# 👋 Hey there! What's up?  
-
-## 👨‍💻 About Me
+## 📌 About me
 > Frontend Developer with +2 years of experience designing scalable, performant applications, creating intuitive and high interfaces
 
 - 🎓 Computer Science Graduate
@@ -11,7 +15,7 @@
 - 🚀 Constantly learning new technologies and improving my skills
 - 💼 Check out my work at [carlos-vinicius.tech](https://carlos-vinicius.tech)
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,docker,postgresql,figma&perline=6)](https://skillicons.dev)
 
