@@ -12,7 +12,7 @@
 
 - 🎓 Computer Science graduate + MBA Fullstack Development
 - 🚀 Constantly learning new technologies and improving my skills
-- 💼 Check out my work at [carlos-vinicius.tech](https://carlos-vinicius.tech)
+- 💼 Check out my work at [carlos-vinicius-dev.vercel.app](https://carlos-vinicius-dev.vercel.app)
 
 ## 🧰 Tech Stack
 
