@@ -13,7 +13,7 @@
 - 🎓 Computer Science Graduate 
 - 📚 MBA in Fullstack Development — [Check here](https://www.linkedin.com/posts/carlos-vinicius-dev_im-grateful-to-share-a-new-achievement-activity-7337987154221973504-v94I?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqBNdoBSVFAknG7kreWUYiqbKUAUstyxdM)
 - 🚀 Constantly learning new technologies and improving my skills
-- 💼 Portfolio at [carlos-vinicius-dev.vercel.app](https://carlos-vinicius-dev.vercel.app)
+- 💼 Portfolio at [carlos-vinicius-dev.vercel.app](https://portfolio.skittz.dev)
 
 ## 🧰 Tech Stack
 
