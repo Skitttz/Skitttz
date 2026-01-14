@@ -11,7 +11,7 @@
 > Frontend Developer with +2 years of experience designing scalable, performant applications, creating intuitive and high interfaces
 
 - 🎓 Computer Science Graduate 
-- 📚 MBA in Fullstack Development — [Check here](https://www.linkedin.com/posts/carlos-vinicius-dev_im-grateful-to-share-a-new-achievement-activity-7337987154221973504-v94I?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqBNdoBSVFAknG7kreWUYiqbKUAUstyxdM)
+- 📚 MBA in Fullstack Development 
 - 🚀 Constantly learning new technologies and improving my skills
 - 💼 Portfolio at [portfolio.skittz.dev](https://portfolio.skittz.dev)
 
