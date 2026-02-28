@@ -7,7 +7,7 @@
 </div>
 
 ## 📌 About me
-> Frontend Developer with +2 years of experience designing scalable, performant applications, creating intuitive and high interfaces
+> Frontend Developer with +3 years of experience designing scalable, performant applications, creating intuitive and high interfaces
 
 - 🎓 Computer Science Graduate 
 - 📚 MBA in Fullstack Development 
