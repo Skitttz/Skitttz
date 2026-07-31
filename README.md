@@ -28,6 +28,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/carlos-vinicius-dev)
 
----
-
-> "Para entender recursão, você precisa primeiro entender recursão." — Dev anônimo (depois de algumas cervejas 🍻)
